@@ -37,7 +37,6 @@
             this.tab_bayantech = this.Factory.CreateRibbonTab();
             this.grp_bidi = this.Factory.CreateRibbonGroup();
             this.btn_fix_bidi = this.Factory.CreateRibbonButton();
-            this.btn_apply_font = this.Factory.CreateRibbonButton();
             this.tab_bayantech.SuspendLayout();
             this.grp_bidi.SuspendLayout();
             // 
@@ -50,7 +49,6 @@
             // grp_bidi
             // 
             this.grp_bidi.Items.Add(this.btn_fix_bidi);
-            this.grp_bidi.Items.Add(this.btn_apply_font);
             this.grp_bidi.Label = "Bidirectional Languages";
             this.grp_bidi.Name = "grp_bidi";
             // 
@@ -61,14 +59,6 @@
             this.btn_fix_bidi.Name = "btn_fix_bidi";
             this.btn_fix_bidi.ShowImage = true;
             this.btn_fix_bidi.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.btn_fix_bidi_Click);
-            // 
-            // btn_apply_font
-            // 
-            this.btn_apply_font.ControlSize = Microsoft.Office.Core.RibbonControlSize.RibbonControlSizeLarge;
-            this.btn_apply_font.Label = "Apply Font";
-            this.btn_apply_font.Name = "btn_apply_font";
-            this.btn_apply_font.ShowImage = true;
-            this.btn_apply_font.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.btn_apply_font_Click);
             // 
             // BayantechRibbon
             // 
@@ -88,7 +78,6 @@
         internal Microsoft.Office.Tools.Ribbon.RibbonTab tab_bayantech;
         internal Microsoft.Office.Tools.Ribbon.RibbonGroup grp_bidi;
         internal Microsoft.Office.Tools.Ribbon.RibbonButton btn_fix_bidi;
-        internal Microsoft.Office.Tools.Ribbon.RibbonButton btn_apply_font;
     }
 
     partial class ThisRibbonCollection

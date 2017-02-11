@@ -64,9 +64,6 @@ namespace BayantechAddIn
 
         private void btn_apply_Click(object sender, EventArgs e)
         {
-            //record time taken in processing
-            Stopwatch watch = new Stopwatch();
-            watch.Start();
 
             btn_apply.Enabled = !btn_apply.Enabled;
             string regionItem = (string)cmb_region.SelectedItem;
@@ -76,9 +73,6 @@ namespace BayantechAddIn
             Bidi.fixBidiIssues();
             applied = true;
 
-            watch.Stop();
-            TimeSpan elapsed = watch.Elapsed;
-            MessageBox.Show("Done Successfully!\n" + "Time Taken [" + elapsed.ToString() + "]", "Processing Completed");
             Close();
             btn_apply.Enabled = !btn_apply.Enabled;
         }

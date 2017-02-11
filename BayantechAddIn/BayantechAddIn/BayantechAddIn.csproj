@@ -175,12 +175,6 @@
     can be found.
   -->
   <ItemGroup>
-    <Compile Include="ApplyFontForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ApplyFontForm.Designer.cs">
-      <DependentUpon>ApplyFontForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="BayantechRibbon.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -197,9 +191,6 @@
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
-    <EmbeddedResource Include="ApplyFontForm.resx">
-      <DependentUpon>ApplyFontForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="BayantechRibbon.resx">
       <DependentUpon>BayantechRibbon.cs</DependentUpon>
     </EmbeddedResource>

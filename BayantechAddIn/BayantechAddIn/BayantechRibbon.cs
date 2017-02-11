@@ -15,7 +15,6 @@ namespace BayantechAddIn
         //Word.Range range;
 
         FixBidiForm frm_fix_bidi;
-        ApplyFontForm frm_apply_font;
         private void BayantechRibbon_Load(object sender, RibbonUIEventArgs e)
         {
             //Initialization
@@ -26,7 +25,6 @@ namespace BayantechAddIn
             app.DocumentChange += Application_DocumentChange;
 
             frm_fix_bidi = new FixBidiForm(Bidi);
-            frm_apply_font = new ApplyFontForm(Bidi);
         }
 
         void Application_DocumentChange()
@@ -48,21 +46,6 @@ namespace BayantechAddIn
                 Globals.ThisAddIn.showExpired();
 
             if (frm_fix_bidi.applied)
-            {
-                Globals.ThisAddIn.incrementLicense();
-            }
-        }
-
-        private void btn_apply_font_Click(object sender, RibbonControlEventArgs e)
-        {
-            if (!Globals.ThisAddIn.EXPIRED)
-            {
-                frm_apply_font.ShowDialog();
-            }
-            else
-                Globals.ThisAddIn.showExpired();
-
-            if (frm_apply_font.applied)
             {
                 Globals.ThisAddIn.incrementLicense();
             }
