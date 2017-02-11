@@ -1,0 +1,70 @@
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll.manifest
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.vsto
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.BayantechRibbon.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.Properties.Resources.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csproj.GenerateResource.Cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.ApplyFontForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.FixBidiForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csprojResolveAssemblyReference.cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll.manifest
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.vsto
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.ApplyFontForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.BayantechRibbon.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.FixBidiForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.Properties.Resources.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csproj.GenerateResource.Cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csprojResolveAssemblyReference.cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll.manifest
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.vsto
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csprojResolveAssemblyReference.cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.ApplyFontForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.BayantechRibbon.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.FixBidiForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.Properties.Resources.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csproj.GenerateResource.Cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\v1.1\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.pdb
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll.manifest
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.vsto
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csprojResolveAssemblyReference.cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.ApplyFontForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.BayantechRibbon.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.FixBidiForm.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.Properties.Resources.resources
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csproj.GenerateResource.Cache
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.dll
+D:\Bayantech\Projects\Office Word 2010\C#\Solutions\Bayantech AddIn\Versions\V1.2\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.pdb
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.pdb
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.dll.manifest
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\BayantechAddIn.vsto
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csprojResolveAssemblyReference.cache
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.ApplyFontForm.resources
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.BayantechRibbon.resources
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.FixBidiForm.resources
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.Properties.Resources.resources
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.csproj.GenerateResource.Cache
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.dll
+D:\Business\FullTimeJobs\Bayantech\Projects\Word AddIn\V2.0\Source\BayantechAddIn\BayantechAddIn\obj\Debug\BayantechAddIn.pdb
